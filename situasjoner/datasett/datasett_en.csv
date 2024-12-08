@@ -1,0 +1,191 @@
+Situasjon;Kanal;MeldingsNummer;Avsender;Mottaker;Melding
+1;Tor;1;Alice;Bob;Hi Bob, I'm on Tor now. I feel safer using this network
+1;Tor;2;Bob;Alice;Yeah, agreed. Good choice to protect our privacy. How's everything?
+1;Tor;3;Alice;Bob;It's going well! Have you checked the latest news?
+1;Tor;4;Bob;Alice;No, not yet. Might be a good idea to stay updated, especially via Tor
+1;Tor;5;Alice;Bob;Absolutely. I think we're avoiding a lot of tracking by chatting here
+1;Tor;6;Bob;Alice;Yes, we're pretty hidden. Do you think more people will start using Tor?
+1;Tor;7;Alice;Bob;I hope so. Privacy is becoming more important every day due to increased surveillance. What about you?
+1;Tor;8;Bob;Alice;Definitely. Have you tried any other privacy tools recently?
+1;Tor;9;Alice;Bob;Yes, I've been experimenting with VPNs and encrypted messaging apps
+1;Tor;10;Bob;Alice;That's great! We should compare notes on what works best
+1;Tor;11;Bob;Alice;Sure, let's do that. Have you tried any new tools recently?
+1;Tor;12;Alice;Bob;Yes, I found a new encrypted email service. It's quite secure
+1;Tor;13;Bob;Alice;Sounds interesting. What's it called?
+1;Tor;14;Alice;Bob;It's called ProtonMail. You should check it out
+1;Tor;15;Bob;Alice;I will. Thanks for the tip!
+1;Tor;16;Alice;Bob;No problem. Always good to stay updated on security tools
+1;Tor;17;Bob;Alice;Absolutely. Have you heard about Signal?
+1;Tor;18;Alice;Bob;Yes, but I've been using Briar lately. It's supposed to be more secure than Signal
+1;Tor;19;Bob;Alice;Good to hear. I'll start using Briar even more
+1;Tor;20;Alice;Bob;It's great for secure messaging. We should consider using it more often
+1;Tor;21;Bob;Alice;By the way, have you played CS:GO recently?
+1;Tor;22;Alice;Bob;Yes, I have! It's still as exciting as ever. Have you tried CS:GO2?
+1;Tor;23;Bob;Alice;Not yet, but I've heard great things about it. How is it?
+1;Tor;24;Alice;Bob;It's amazing! The graphics and gameplay have improved a lot
+1;Tor;25;Bob;Alice;That's awesome. We should play together sometime
+1;Tor;26;Alice;Bob;Definitely! Let's set up a time this weekend
+1;Tor;27;Bob;Alice;Sounds good. Do you have any tips for CS:GO2?
+1;Tor;28;Alice;Bob;Yes, focus on teamwork and communication. It makes a huge difference
+1;Tor;29;Bob;Alice;Got it. I'll keep that in mind. Any favorite maps?
+1;Tor;30;Alice;Bob;I really like the new maps they introduced. They add a fresh challenge
+1;Tor;31;Bob;Alice;Can't wait to try them out. Any other games you're into?
+1;Tor;32;Alice;Bob;I've been playing a lot of strategy games lately. How about you?
+1;Tor;33;Bob;Alice;Same here. Strategy games are a great way to unwind
+1;Tor;34;Alice;Bob;Absolutely. They really make you think
+1;Tor;35;Bob;Alice;By the way, have you heard about the latest update in CS:GO?
+1;Tor;36;Alice;Bob;Yes, the new weapons and skins are pretty cool
+1;Tor;37;Bob;Alice;Agreed. It's always exciting to see new content
+1;Tor;38;Alice;Bob;For sure. Keeps the game interesting
+1;Tor;39;Bob;Alice;Do you follow any CS:GO tournaments?
+1;Tor;40;Alice;Bob;Yes, I love watching the pros play. It's inspiring
+1;Tor;41;Bob;Alice;Same here. The skill level is incredible
+1;Tor;42;Bob;Alice;We should watch a tournament together sometime
+1;Tor;43;Alice;Bob;That would be fun! Let's plan for it
+1;Tor;44;Bob;Alice;Great idea. Looking forward to it
+1;Tor;45;Alice;Bob;Me too. It's always more fun with friends
+1;Tor;46;Bob;Alice;Definitely. Do you have any favorite teams?
+1;Tor;47;Alice;Bob;I really like Team Liquid. How about you?
+1;Tor;48;Alice;Bob;Can't wait to see them in action
+1;Tor;49;Alice;Bob;By the way, have you heard about Rain? He's one of the best Norwegian CS players
+1;Tor;50;Bob;Alice;Yes, Rain is incredible. His skills are top-tier
+2;WiFi;1;Alice;Bob;Bob, are you on the same WiFi network as me right now?
+2;WiFi;2;Bob;Alice;Yeah, connected. Notice how messages are much faster here than over Tor?
+2;WiFi;3;Alice;Bob;Yeah, and no one can track us while we're just on WiFi
+2;WiFi;4;Bob;Alice;Absolutely. What are you doing online right now?
+2;WiFi;5;Alice;Bob;Just browsing a bit. Reading Briar documentation and the changelog for the latest version
+2;WiFi;6;Bob;Alice;Perfect! But remember to use the Tor Browser if you switch to other things..
+2;WiFi;7;Alice;Bob;Yeah definitely. Thanks for the reminder
+2;WiFi;8;Bob;Alice;I have to go now. I'm heading out to do some snowboarding. Have you ever tried it?
+2;WiFi;9;Alice;Bob;Yes, I love snowboarding! It's one of my favorite winter activities
+2;WiFi;10;Bob;Alice;That's awesome! Do you have a favorite spot to snowboard?
+2;WiFi;11;Alice;Bob;I usually hit the local mountains. They have some great slopes
+2;WiFi;12;Bob;Alice;Nice! I've been thinking about trying it out. Any tips for a beginner?
+2;WiFi;13;Alice;Bob;Definitely! Start with the basics and take a lesson if you can. It's all about balance
+2;WiFi;14;Bob;Alice;Got it. How about gear? What should I look for?
+2;WiFi;15;Alice;Bob;Make sure you have a good board and comfortable boots. Safety gear like a helmet is also important
+2;WiFi;16;Bob;Alice;Thanks for the advice! I'll make sure to get the right gear
+2;WiFi;17;Alice;Bob;No problem. Once you get the hang of it, it's a lot of fun
+2;WiFi;18;Bob;Alice;I can't wait to try it out. Do you go snowboarding often?
+2;WiFi;19;Alice;Bob;I try to go as often as I can during the winter season
+2;WiFi;20;Bob;Alice;That's great! Maybe we can go together sometime
+2;WiFi;21;Alice;Bob;I'd love that! It's always more fun with friends
+2;WiFi;22;Bob;Alice;Absolutely. Have you ever tried any tricks?
+2;WiFi;23;Alice;Bob;Yes, but I'm still learning. It's challenging but rewarding
+2;WiFi;24;Bob;Alice;I bet! Any favorite tricks so far?
+2;WiFi;25;Alice;Bob;I like doing simple jumps and grabs. Still working on more advanced stuff
+2;WiFi;26;Bob;Alice;Sounds cool! I'll start with the basics first
+2;WiFi;27;Alice;Bob;That's the best way to go. Safety first!
+2;WiFi;28;Bob;Alice;For sure. Got any favorite snowboarding videos or tutorials?
+2;WiFi;29;Alice;Bob;Yes, there are some great ones on YouTube. I can send you a few links
+2;WiFi;30;Bob;Alice;That would be awesome! Thanks
+2;WiFi;31;Alice;Bob;No problem. Happy to help
+2;WiFi;32;Bob;Alice;Do you follow any professional snowboarders?
+2;WiFi;33;Alice;Bob;Yes, I follow a few. Their skills are incredible
+2;WiFi;34;Bob;Alice;I can imagine. Any recommendations on who to follow?
+2;WiFi;35;Alice;Bob;Sure, I'll send you a list of my favorites
+2;WiFi;36;Bob;Alice;Thanks! Looking forward to checking them out
+2;WiFi;37;Alice;Bob;You're welcome. Enjoy!
+2;WiFi;38;Bob;Alice;By the way, do you prefer snowboarding over skiing?
+2;WiFi;39;Alice;Bob;Yes, I find snowboarding more exciting. How about you?
+2;WiFi;40;Bob;Alice;I've only tried skiing, but I'm excited to try snowboarding
+2;WiFi;41;Alice;Bob;You'll love it! It's a different experience but just as fun
+2;WiFi;42;Bob;Alice;I can't wait. Any other winter activities you enjoy?
+2;WiFi;43;Alice;Bob;I also like ice skating and sledding. Winter is a great season for outdoor fun
+2;WiFi;44;Bob;Alice;Agreed! Winter sports are the best
+2;WiFi;45;Alice;Bob;Absolutely. Do you have any winter trips planned?
+2;WiFi;46;Bob;Alice;Not yet, but I'm thinking about planning one soon
+2;WiFi;47;Alice;Bob;That sounds like a great idea. Let me know if you need any recommendations
+2;WiFi;48;Bob;Alice;Will do! Thanks for all the tips and advice
+2;WiFi;49;Alice;Bob;You're welcome. Have fun and stay safe!
+2;WiFi;50;Bob;Alice;Thanks, Alice! Talk to you later
+3;Bluetooth;1;Alice;Bob;Bob, we're connected via Bluetooth now. Do you see me as green in the contacts list?
+3;Bluetooth;2;Bob;Alice;Yes, I see you clearly. Are we able to send messages quickly enough through this?
+3;Bluetooth;3;Alice;Bob;It seems pretty fast! Short range, but practical when we're close by
+3;Bluetooth;4;Bob;Alice;Yeah, it's fine for short conversations. Where are you right now?
+3;Bluetooth;5;Alice;Bob;I'm in the neighborhood, just 20 meters away. Bluetooth range is working well!
+3;Bluetooth;6;Bob;Alice;Good to hear! This is a good emergency solution when we don't have the internet
+3;Bluetooth;7;Alice;Bob;Yes, we should test this more often for local messaging
+3;Bluetooth;8;Bob;Alice;By the way, Heidi is pregnet. Have you thought about starting a family?
+3;Bluetooth;9;Alice;Bob;Yes, it's been on my mind lately. How about you?
+3;Bluetooth;10;Bob;Alice;Same here. It's a big step..
+3;Bluetooth;11;Alice;Bob;Absolutely. It's a huge responsibility, but also very rewarding
+3;Bluetooth;12;Bob;Alice;How do you know when the time is right?
+3;Bluetooth;13;Alice;Bob;Timing is always tricky. But if you feel ready, you should go for it
+3;Bluetooth;14;Bob;Alice;True. Have you talked to anyone else about this?
+3;Bluetooth;15;Alice;Bob;Yes, I've discussed it with a few close friends. They all have different opinions
+3;Bluetooth;16;Bob;Alice;Same here. It's interesting to hear different perspectives
+3;Bluetooth;17;Alice;Bob;Definitely. What do you think is the most important factor to consider?
+3;Bluetooth;18;Bob;Alice;I think financial stability is crucial. We need to be able to provide for our family
+3;Bluetooth;19;Alice;Bob;Agreed. Emotional readiness is also important
+3;Bluetooth;20;Bob;Alice;Yes, we need to be prepared for the challenges that come with raising a family
+3;Bluetooth;21;Alice;Bob;Absolutely. It's a lifelong commitment
+3;Bluetooth;22;Bob;Alice;Have you thought about where you'd like to raise a family?
+3;Bluetooth;23;Alice;Bob;Yes, I think a safe and supportive community is essential
+3;Bluetooth;24;Bob;Alice;I agree. Good schools and healthcare are also important
+3;Bluetooth;25;Alice;Bob;Definitely
+3;Bluetooth;26;Bob;Alice;Have you thought about how many children you'd like to have?
+3;Bluetooth;27;Alice;Bob;I think two or three would be ideal. How about you?
+3;Bluetooth;28;Bob;Alice;I feel the same. A small, close-knit family sounds perfect
+3;Bluetooth;29;Alice;Bob;Yes, it does. Have you thought about names?
+3;Bluetooth;30;Bob;Alice;A few, but it's hard. We've used an app to help us. It's called CharliesNames and it's like Tinder for baby names
+3;Bluetooth;31;Alice;Bob;Oh wow, that sounds interesting. I'll check it out
+3;Bluetooth;32;Bob;Alice;I'm thinking about working less for a couple of years to ensure I'm there for the kids. Have you thought about how to balance work and family life?
+3;Bluetooth;33;Alice;Bob;Yes, it's important to find a good balance. Communication and teamwork are key
+3;Bluetooth;34;Bob;Alice;Agreed
+3;Bluetooth;35;Alice;Bob;Are you on the same page with your partner about parenting?
+3;Bluetooth;36;Bob;Alice;Yes, we've had many discussions about it. It's important to be aligned
+3;Bluetooth;37;Alice;Bob;Definitely. Parenting is a team effort
+3;Bluetooth;38;Bob;Alice;True that
+3;Bluetooth;39;Alice;Bob;But it's also important to have your own time and space
+3;Bluetooth;40;Bob;Alice;Absolutely. We need to take care of ourselves to be able to take care of our family
+3;Bluetooth;41;Alice;Bob;So what do you do to relax and recharge?
+3;Bluetooth;42;Bob;Alice;I enjoy reading, hiking, and spending time with friends. How about you?
+3;Bluetooth;43;Alice;Bob;I like yoga, painting, and listening to music. It helps me unwind
+3;Bluetooth;44;Bob;Alice;Nice
+3;Bluetooth;45;Bob;Alice;It's important to have hobbies and activities that bring you joy
+3;Bluetooth;46;Alice;Bob;Maybe our partners can meet up too
+3;Bluetooth;47;Alice;Bob;It's good for us to have a support network
+3;Bluetooth;48;Bob;Alice;Yeah that would be great
+3;Bluetooth;49;Alice;Bob;Maybe we can plan a get-together soon
+3;Bluetooth;50;Bob;Alice;Sounds like a plan. Let's make it happen
+4;Bluetooth,WiFi;1;Alice;StudyGroup;Hi Bob and Charlie. Can you both read this? I have Bluetooth and WiFi enabled, but not Tor
+4;Bluetooth;2;Bob;StudyGroup;Yes, I can read the message, and I only have Bluetooth enabled
+4;WiFi;3;Charlie;StudyGroup;Interesting, I'm also connected via Alice. No direct connection to you, Bob. Looks like everyone can read everything
+4;Bluetooth;4;Bob;StudyGroup;It seems like Alice is acting as a relay for us. I don't know you very well, Charlie, but we can still communicate and coordinate. That's good to know
+4;Bluetooth,WiFi;5;Alice;StudyGroup;What happens if I lose connection? I'm turning off my connections after this message
+4;Bluetooth;6;Bob;StudyGroup;Now you both got disconnected for me. We need to make sure Alice has a stable connection at all times. Otherwise, Charlie, we should add each other as contacts
+4;WiFi;7;Charlie;StudyGroup;It went dead here. Both are disconnected, and I'm not receiving any messages
+4;Bluetooth,WiFi;8;Alice;StudyGroup;Now I've re-enabled Bluetooth and WiFi - messages just came in from both of you
+4;Bluetooth;9;Bob;StudyGroup;Yeah, now I got messages from both of you!
+4;WiFi;10;Charlie;StudyGroup;Me too!
+5;WiFi;1;Alice;Neighborhood;If you go offline Charlie, I lose connection to Dave, right? Who is Dave by the way?
+5;WiFi,Tor;2;Charlie;Neighborhood;Yes, that's correct. Without me, the messages in the group chat won't flow unless you switch to a shared channel. Dave lives at the end of my row
+5;WiFi;3;Alice;Neighborhood;Ah, I see. Maybe I should add Dave as a contact too
+5;WiFi,Tor;4;Charlie;Neighborhood;Good idea. You need a backup plan for communication
+5;Tor;5;Dave;Neighborhood;Sure! Or you can use the reveal contacts in the group feature. I only have Tor btw...
+5;WiFi;6;Alice;Neighborhood;Interesting feature! Okay, so I can't reach you via WiFi/Bluetooth through Charlie, even though you're in the neighborhood (pun intended)
+5;WiFi,Tor;7;Charlie;Neighborhood;Let's keep me as the relay for now, but Alice, you need to be ready to switch to Tor if I get disconnected
+5;Tor;8;Dave;Neighborhood;Good idea. Are you ready for that Alice?
+5;WiFi;9;Alice;Neighborhood;I need to check if I have regular internet first
+5;WiFi;10;Alice;Neighborhood;Ready!
+6;Bluetooth,WiFi;1;Alice;EchoChamber;Hi everyone, I can post things in the forum that everyone can see, even if we're not directly connected
+6;Bluetooth;2;Bob;EchoChamber;That's good! We're well synchronized, as long as most contacts are connected with someone
+6;WiFi,Tor;3;Charlie;EchoChamber;Yeah, it's important to know who's acting as the relay, in case someone goes offline. Can we all confirm that we see each other's messages here? I see different color codes. Bob is red (1/3) for me since we're not contacts
+6;Tor;4;Dave;EchoChamber;I see forum posts from all of you, Alice, Bob, and Charlie. For me, Bob is also red (1/3) because we don't know each other
+6;WiFi,Tor;5;Charlie;EchoChamber;The forum works well. I'm just curious how the relay system works. Can Alice disconnect?
+6;Bluetooth,WiFi;6;Alice;EchoChamber;gtg!
+6;WiFi,Tor;7;Charlie;EchoChamber;Dave, do you see this post?
+6;Tor;8;Dave;EchoChamber;Yep
+6;Bluetooth,WiFi;9;Alice;EchoChamber;Back! It looks like you two were chatting while I was disconnected. I see the messages now. How about you Bob?
+6;Bluetooth;10;Bob;EchoChamber;It's good to have you back, Alice. I can see all the messages now as well
+7;Bluetooth,WiFi;1;Alice;Blog;This blog will contain my thoughts on information security and privacy. Feel free to join the discussion!
+7;Bluetooth;2;Bob;Blog;I'm looking forward to your perspectives! Especially on how we can secure communication across multiple channels
+7;WiFi,Tor;3;Charlie;Blog;Agreed Alice, but I think we also need to be more mindful of how we handle sensitive data in everyday life
+7;Tor;4;Dave;Blog;Does anyone have experience with different security protocols? It would be interesting to hear about various solutions
+7;Tor;5;Alice;Blog;I wonder if anyone has tested the Tor network in practice? How does it compare to other tools?
+7;WiFi,Tor;6;Charlie;Blog;Security is more than just technology, it's also about habits and culture
+7;Bluetooth;7;Bob;Blog;Not much discussion here, but I'll keep sharing my thoughts: I recently started using more encryption tools, and it's made me more aware of the risks
+7;Tor;8;Dave;Blog;I've found that WiFi-based communication can be risky, any thoughts on security for open networks?
+7;WiFi,Tor;9;Charlie;Blog;Tor is a great technology, but it has its limitations. Has anyone thought about combining it with other tools?
+7;Bluetooth,WiFi;10;Alice;Blog;Many seem to overlook the importance of physical security when we talk about information security. Any experiences?

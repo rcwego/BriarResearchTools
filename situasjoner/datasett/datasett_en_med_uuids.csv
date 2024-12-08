@@ -1,0 +1,191 @@
+Situasjon;Kanal;MeldingsNummer;Avsender;Mottaker;Melding;UUID
+1;Tor;1;Alice;Bob;Hi Bob, I'm on Tor now. I feel safer using this network #NTNU-MISEB 4ccaf219-c5e5-47fa-9e81-a678ee7cf67a;4ccaf219-c5e5-47fa-9e81-a678ee7cf67a
+1;Tor;2;Bob;Alice;Yeah, agreed. Good choice to protect our privacy. How's everything? #NTNU-MISEB 3bca785c-ae3a-4e03-8ed5-3118edf94927;3bca785c-ae3a-4e03-8ed5-3118edf94927
+1;Tor;3;Alice;Bob;It's going well! Have you checked the latest news? #NTNU-MISEB 153e19a4-eda2-4a06-b57a-712560dc0d6a;153e19a4-eda2-4a06-b57a-712560dc0d6a
+1;Tor;4;Bob;Alice;No, not yet. Might be a good idea to stay updated, especially via Tor #NTNU-MISEB 9c9d7ca2-ad6e-430c-a1f2-0307ccf63178;9c9d7ca2-ad6e-430c-a1f2-0307ccf63178
+1;Tor;5;Alice;Bob;Absolutely. I think we're avoiding a lot of tracking by chatting here #NTNU-MISEB 80bfefc4-c105-4e7c-8728-f584eb0c48f1;80bfefc4-c105-4e7c-8728-f584eb0c48f1
+1;Tor;6;Bob;Alice;Yes, we're pretty hidden. Do you think more people will start using Tor? #NTNU-MISEB 2d330ebf-9eed-43f7-8457-35fa74b3b72f;2d330ebf-9eed-43f7-8457-35fa74b3b72f
+1;Tor;7;Alice;Bob;I hope so. Privacy is becoming more important every day due to increased surveillance. What about you? #NTNU-MISEB ad515a7c-b0c6-4d1d-b023-9a763f083057;ad515a7c-b0c6-4d1d-b023-9a763f083057
+1;Tor;8;Bob;Alice;Definitely. Have you tried any other privacy tools recently? #NTNU-MISEB ee958144-a3cc-4065-81a2-03e054de521f;ee958144-a3cc-4065-81a2-03e054de521f
+1;Tor;9;Alice;Bob;Yes, I've been experimenting with VPNs and encrypted messaging apps #NTNU-MISEB 1cfcf64c-7f7d-4271-b0ca-433e8b79eab1;1cfcf64c-7f7d-4271-b0ca-433e8b79eab1
+1;Tor;10;Bob;Alice;That's great! We should compare notes on what works best #NTNU-MISEB 8ba95b88-498f-44a4-9c00-b3656acf0642;8ba95b88-498f-44a4-9c00-b3656acf0642
+1;Tor;11;Bob;Alice;Sure, let's do that. Have you tried any new tools recently? #NTNU-MISEB 7eb40272-b500-4c8c-8fef-e901d1fba8e1;7eb40272-b500-4c8c-8fef-e901d1fba8e1
+1;Tor;12;Alice;Bob;Yes, I found a new encrypted email service. It's quite secure #NTNU-MISEB d8e750a0-eb4f-4b92-a13a-f3f46a2e9588;d8e750a0-eb4f-4b92-a13a-f3f46a2e9588
+1;Tor;13;Bob;Alice;Sounds interesting. What's it called? #NTNU-MISEB 4e7570ae-6a85-4018-a20f-0858e010b79b;4e7570ae-6a85-4018-a20f-0858e010b79b
+1;Tor;14;Alice;Bob;It's called ProtonMail. You should check it out #NTNU-MISEB 042c9567-b8b9-43d7-8ca2-de124c5088c9;042c9567-b8b9-43d7-8ca2-de124c5088c9
+1;Tor;15;Bob;Alice;I will. Thanks for the tip! #NTNU-MISEB bfb67983-1d8c-47d1-b400-47a3f06feda0;bfb67983-1d8c-47d1-b400-47a3f06feda0
+1;Tor;16;Alice;Bob;No problem. Always good to stay updated on security tools #NTNU-MISEB bff2e318-b808-4ec0-8dfb-2fa2e1d91e5f;bff2e318-b808-4ec0-8dfb-2fa2e1d91e5f
+1;Tor;17;Bob;Alice;Absolutely. Have you heard about Signal? #NTNU-MISEB b49e15ae-9510-4839-8a8a-73beaa2fcfd9;b49e15ae-9510-4839-8a8a-73beaa2fcfd9
+1;Tor;18;Alice;Bob;Yes, but I've been using Briar lately. It's supposed to be more secure than Signal #NTNU-MISEB 6ca6007f-fe84-4258-8413-855afd1679c0;6ca6007f-fe84-4258-8413-855afd1679c0
+1;Tor;19;Bob;Alice;Good to hear. I'll start using Briar even more #NTNU-MISEB 78cd75d5-0581-4036-b169-45db9941ca1b;78cd75d5-0581-4036-b169-45db9941ca1b
+1;Tor;20;Alice;Bob;It's great for secure messaging. We should consider using it more often #NTNU-MISEB 41cbed7e-a9c3-4746-aa9c-652704dd9d72;41cbed7e-a9c3-4746-aa9c-652704dd9d72
+1;Tor;21;Bob;Alice;By the way, have you played CS:GO recently? #NTNU-MISEB 1a135ab7-424e-4305-aedc-64c0a29cea76;1a135ab7-424e-4305-aedc-64c0a29cea76
+1;Tor;22;Alice;Bob;Yes, I have! It's still as exciting as ever. Have you tried CS:GO2? #NTNU-MISEB b723dcd9-8191-4fe7-8964-da4790cfe756;b723dcd9-8191-4fe7-8964-da4790cfe756
+1;Tor;23;Bob;Alice;Not yet, but I've heard great things about it. How is it? #NTNU-MISEB 42f4e715-0948-44c7-a277-509237699836;42f4e715-0948-44c7-a277-509237699836
+1;Tor;24;Alice;Bob;It's amazing! The graphics and gameplay have improved a lot #NTNU-MISEB 16cbdbd7-3ab3-476d-995b-68773fc28ca0;16cbdbd7-3ab3-476d-995b-68773fc28ca0
+1;Tor;25;Bob;Alice;That's awesome. We should play together sometime #NTNU-MISEB d7ebcba0-8669-41cb-a67a-8b104b7f8e4e;d7ebcba0-8669-41cb-a67a-8b104b7f8e4e
+1;Tor;26;Alice;Bob;Definitely! Let's set up a time this weekend #NTNU-MISEB 3e83e33e-3513-4a85-8223-9cad6e56ee5e;3e83e33e-3513-4a85-8223-9cad6e56ee5e
+1;Tor;27;Bob;Alice;Sounds good. Do you have any tips for CS:GO2? #NTNU-MISEB 025b571c-f6ff-475d-a1f1-e16b224098de;025b571c-f6ff-475d-a1f1-e16b224098de
+1;Tor;28;Alice;Bob;Yes, focus on teamwork and communication. It makes a huge difference #NTNU-MISEB 9d480c86-585d-4cd2-adc8-4bd5507d05e9;9d480c86-585d-4cd2-adc8-4bd5507d05e9
+1;Tor;29;Bob;Alice;Got it. I'll keep that in mind. Any favorite maps? #NTNU-MISEB eadf6cfa-0487-487b-a792-25f174f046d2;eadf6cfa-0487-487b-a792-25f174f046d2
+1;Tor;30;Alice;Bob;I really like the new maps they introduced. They add a fresh challenge #NTNU-MISEB 7bfb35be-16d1-48cf-9d80-22826eb96e1b;7bfb35be-16d1-48cf-9d80-22826eb96e1b
+1;Tor;31;Bob;Alice;Can't wait to try them out. Any other games you're into? #NTNU-MISEB 1ebadd7e-fc28-41f9-bef2-54bcf131148d;1ebadd7e-fc28-41f9-bef2-54bcf131148d
+1;Tor;32;Alice;Bob;I've been playing a lot of strategy games lately. How about you? #NTNU-MISEB 73ecf3ed-c5cf-461d-8a68-b8838cb47e1b;73ecf3ed-c5cf-461d-8a68-b8838cb47e1b
+1;Tor;33;Bob;Alice;Same here. Strategy games are a great way to unwind #NTNU-MISEB 7274cf47-4666-45b6-835a-2d41b546ded9;7274cf47-4666-45b6-835a-2d41b546ded9
+1;Tor;34;Alice;Bob;Absolutely. They really make you think #NTNU-MISEB d57cea8a-0342-466c-a774-824513adf443;d57cea8a-0342-466c-a774-824513adf443
+1;Tor;35;Bob;Alice;By the way, have you heard about the latest update in CS:GO? #NTNU-MISEB 8f4d6a03-8f29-43a5-84fd-5ea5fa019bca;8f4d6a03-8f29-43a5-84fd-5ea5fa019bca
+1;Tor;36;Alice;Bob;Yes, the new weapons and skins are pretty cool #NTNU-MISEB 285dc8ea-dbc2-4aa3-9342-9a95ce9a33f1;285dc8ea-dbc2-4aa3-9342-9a95ce9a33f1
+1;Tor;37;Bob;Alice;Agreed. It's always exciting to see new content #NTNU-MISEB 5c462d80-2bab-43d9-8412-d4446bcfbf0f;5c462d80-2bab-43d9-8412-d4446bcfbf0f
+1;Tor;38;Alice;Bob;For sure. Keeps the game interesting #NTNU-MISEB a8d08618-8a7e-4dbf-bfad-e3e895b317cf;a8d08618-8a7e-4dbf-bfad-e3e895b317cf
+1;Tor;39;Bob;Alice;Do you follow any CS:GO tournaments? #NTNU-MISEB 15de0b70-d451-4a4b-a987-4875c5995fc4;15de0b70-d451-4a4b-a987-4875c5995fc4
+1;Tor;40;Alice;Bob;Yes, I love watching the pros play. It's inspiring #NTNU-MISEB 1b1e49c0-caee-4bcb-a10b-9f8a97408457;1b1e49c0-caee-4bcb-a10b-9f8a97408457
+1;Tor;41;Bob;Alice;Same here. The skill level is incredible #NTNU-MISEB 265b4536-bd4f-425c-9246-5ab6235f767d;265b4536-bd4f-425c-9246-5ab6235f767d
+1;Tor;42;Bob;Alice;We should watch a tournament together sometime #NTNU-MISEB c8bec0a5-d3a9-49c5-94b4-33e37368a8a4;c8bec0a5-d3a9-49c5-94b4-33e37368a8a4
+1;Tor;43;Alice;Bob;That would be fun! Let's plan for it #NTNU-MISEB c774d3c0-1f65-4bb4-af73-a05c24c71527;c774d3c0-1f65-4bb4-af73-a05c24c71527
+1;Tor;44;Bob;Alice;Great idea. Looking forward to it #NTNU-MISEB 8e8e3eb0-8b17-421e-bf4b-885563d1df0f;8e8e3eb0-8b17-421e-bf4b-885563d1df0f
+1;Tor;45;Alice;Bob;Me too. It's always more fun with friends #NTNU-MISEB 472f1e28-5ceb-4a53-9526-632676522c6c;472f1e28-5ceb-4a53-9526-632676522c6c
+1;Tor;46;Bob;Alice;Definitely. Do you have any favorite teams? #NTNU-MISEB 89689a31-a690-4a27-8fcb-ea963e17852c;89689a31-a690-4a27-8fcb-ea963e17852c
+1;Tor;47;Alice;Bob;I really like Team Liquid. How about you? #NTNU-MISEB c2be35ef-f696-47ee-82c3-32c240bb24e0;c2be35ef-f696-47ee-82c3-32c240bb24e0
+1;Tor;48;Alice;Bob;Can't wait to see them in action #NTNU-MISEB 522923ff-cb5c-4066-ac89-c9a6513cbc20;522923ff-cb5c-4066-ac89-c9a6513cbc20
+1;Tor;49;Alice;Bob;By the way, have you heard about Rain? He's one of the best Norwegian CS players #NTNU-MISEB 48484d60-aecf-4dde-8e65-762c45449845;48484d60-aecf-4dde-8e65-762c45449845
+1;Tor;50;Bob;Alice;Yes, Rain is incredible. His skills are top-tier #NTNU-MISEB 286ed46f-53f1-473d-b4ef-6fbb2e3a0196;286ed46f-53f1-473d-b4ef-6fbb2e3a0196
+2;WiFi;1;Alice;Bob;Bob, are you on the same WiFi network as me right now? #NTNU-MISEB ed8cfd0e-a60f-496f-91fc-1d2e7d5d083e;ed8cfd0e-a60f-496f-91fc-1d2e7d5d083e
+2;WiFi;2;Bob;Alice;Yeah, connected. Notice how messages are much faster here than over Tor? #NTNU-MISEB 1e8be9d1-aabe-4bd9-8014-1259df64ca8e;1e8be9d1-aabe-4bd9-8014-1259df64ca8e
+2;WiFi;3;Alice;Bob;Yeah, and no one can track us while we're just on WiFi #NTNU-MISEB f9cc3060-838c-46fe-bbc6-f4da9348fd97;f9cc3060-838c-46fe-bbc6-f4da9348fd97
+2;WiFi;4;Bob;Alice;Absolutely. What are you doing online right now? #NTNU-MISEB 9d4e4adb-a7ec-4069-963a-f50371ff4e78;9d4e4adb-a7ec-4069-963a-f50371ff4e78
+2;WiFi;5;Alice;Bob;Just browsing a bit. Reading Briar documentation and the changelog for the latest version #NTNU-MISEB e4065e95-d0fa-41b8-ac6f-80e13daa7e2a;e4065e95-d0fa-41b8-ac6f-80e13daa7e2a
+2;WiFi;6;Bob;Alice;Perfect! But remember to use the Tor Browser if you switch to other things.. #NTNU-MISEB a4094943-8c33-4c39-a5ad-0d5eae68734b;a4094943-8c33-4c39-a5ad-0d5eae68734b
+2;WiFi;7;Alice;Bob;Yeah definitely. Thanks for the reminder #NTNU-MISEB 219658fd-517f-4274-8582-24abfe61f74c;219658fd-517f-4274-8582-24abfe61f74c
+2;WiFi;8;Bob;Alice;I have to go now. I'm heading out to do some snowboarding. Have you ever tried it? #NTNU-MISEB 7b1aac03-02c1-4afe-b3a3-39fdfb83af6c;7b1aac03-02c1-4afe-b3a3-39fdfb83af6c
+2;WiFi;9;Alice;Bob;Yes, I love snowboarding! It's one of my favorite winter activities #NTNU-MISEB 66155a65-4dde-4375-ac36-302b438514ca;66155a65-4dde-4375-ac36-302b438514ca
+2;WiFi;10;Bob;Alice;That's awesome! Do you have a favorite spot to snowboard? #NTNU-MISEB e63e7766-a454-43d6-ade1-fc410af13f0e;e63e7766-a454-43d6-ade1-fc410af13f0e
+2;WiFi;11;Alice;Bob;I usually hit the local mountains. They have some great slopes #NTNU-MISEB 8ba2ac8a-aade-4d8d-af61-053f1ef7e423;8ba2ac8a-aade-4d8d-af61-053f1ef7e423
+2;WiFi;12;Bob;Alice;Nice! I've been thinking about trying it out. Any tips for a beginner? #NTNU-MISEB 6daa382f-834c-47f5-999b-41adb220d109;6daa382f-834c-47f5-999b-41adb220d109
+2;WiFi;13;Alice;Bob;Definitely! Start with the basics and take a lesson if you can. It's all about balance #NTNU-MISEB 4f4a101f-6992-46a4-a97a-23dfaa880a68;4f4a101f-6992-46a4-a97a-23dfaa880a68
+2;WiFi;14;Bob;Alice;Got it. How about gear? What should I look for? #NTNU-MISEB 8ee9e158-ff37-490e-989f-b24b8c133255;8ee9e158-ff37-490e-989f-b24b8c133255
+2;WiFi;15;Alice;Bob;Make sure you have a good board and comfortable boots. Safety gear like a helmet is also important #NTNU-MISEB 072db193-99c4-4167-83d6-3e1fdd76c108;072db193-99c4-4167-83d6-3e1fdd76c108
+2;WiFi;16;Bob;Alice;Thanks for the advice! I'll make sure to get the right gear #NTNU-MISEB 2e9edccf-121b-415c-9a1c-09d3854b3de7;2e9edccf-121b-415c-9a1c-09d3854b3de7
+2;WiFi;17;Alice;Bob;No problem. Once you get the hang of it, it's a lot of fun #NTNU-MISEB 9e3931b7-cea0-43d5-909f-c9575bf9bcf6;9e3931b7-cea0-43d5-909f-c9575bf9bcf6
+2;WiFi;18;Bob;Alice;I can't wait to try it out. Do you go snowboarding often? #NTNU-MISEB 73312d9f-7e16-48f1-9839-3cf8e215f241;73312d9f-7e16-48f1-9839-3cf8e215f241
+2;WiFi;19;Alice;Bob;I try to go as often as I can during the winter season #NTNU-MISEB 5453cc16-6359-42c6-9c5e-5bd5a7272462;5453cc16-6359-42c6-9c5e-5bd5a7272462
+2;WiFi;20;Bob;Alice;That's great! Maybe we can go together sometime #NTNU-MISEB e2175049-d8ed-46c8-9bab-28ed987ce9bd;e2175049-d8ed-46c8-9bab-28ed987ce9bd
+2;WiFi;21;Alice;Bob;I'd love that! It's always more fun with friends #NTNU-MISEB 98414757-3ae5-4734-94f8-fa9877a60742;98414757-3ae5-4734-94f8-fa9877a60742
+2;WiFi;22;Bob;Alice;Absolutely. Have you ever tried any tricks? #NTNU-MISEB ca5cd1f1-a457-41a2-8fbc-5ff369fb44d0;ca5cd1f1-a457-41a2-8fbc-5ff369fb44d0
+2;WiFi;23;Alice;Bob;Yes, but I'm still learning. It's challenging but rewarding #NTNU-MISEB a62d8c7b-10ec-4329-81ed-3662c555680a;a62d8c7b-10ec-4329-81ed-3662c555680a
+2;WiFi;24;Bob;Alice;I bet! Any favorite tricks so far? #NTNU-MISEB 4df95ab6-13a0-4d1e-bc9c-6a6c4765a012;4df95ab6-13a0-4d1e-bc9c-6a6c4765a012
+2;WiFi;25;Alice;Bob;I like doing simple jumps and grabs. Still working on more advanced stuff #NTNU-MISEB 0db97f47-eee7-4285-9de0-6036d42dd9b2;0db97f47-eee7-4285-9de0-6036d42dd9b2
+2;WiFi;26;Bob;Alice;Sounds cool! I'll start with the basics first #NTNU-MISEB c160f128-a1ff-4bd9-a6a7-a4898267f052;c160f128-a1ff-4bd9-a6a7-a4898267f052
+2;WiFi;27;Alice;Bob;That's the best way to go. Safety first! #NTNU-MISEB ad1ae300-d080-4d7e-856d-23d21b9735fa;ad1ae300-d080-4d7e-856d-23d21b9735fa
+2;WiFi;28;Bob;Alice;For sure. Got any favorite snowboarding videos or tutorials? #NTNU-MISEB beab6508-fd1b-4d95-9569-026f8490eee9;beab6508-fd1b-4d95-9569-026f8490eee9
+2;WiFi;29;Alice;Bob;Yes, there are some great ones on YouTube. I can send you a few links #NTNU-MISEB 160819d9-8db8-42e9-a8e3-49fc8827902e;160819d9-8db8-42e9-a8e3-49fc8827902e
+2;WiFi;30;Bob;Alice;That would be awesome! Thanks #NTNU-MISEB 96e160aa-5168-40d0-9ab0-ade6b8333c01;96e160aa-5168-40d0-9ab0-ade6b8333c01
+2;WiFi;31;Alice;Bob;No problem. Happy to help #NTNU-MISEB 5e7f0f6a-fd9f-490a-91c3-c0890947fe3e;5e7f0f6a-fd9f-490a-91c3-c0890947fe3e
+2;WiFi;32;Bob;Alice;Do you follow any professional snowboarders? #NTNU-MISEB 9440b745-897a-4951-8383-27762500ce30;9440b745-897a-4951-8383-27762500ce30
+2;WiFi;33;Alice;Bob;Yes, I follow a few. Their skills are incredible #NTNU-MISEB 2a481f03-7122-4c82-8a62-6a77ef99ffc8;2a481f03-7122-4c82-8a62-6a77ef99ffc8
+2;WiFi;34;Bob;Alice;I can imagine. Any recommendations on who to follow? #NTNU-MISEB 706a148f-4f70-48f2-9719-b52e10cb98ff;706a148f-4f70-48f2-9719-b52e10cb98ff
+2;WiFi;35;Alice;Bob;Sure, I'll send you a list of my favorites #NTNU-MISEB cf0e08ad-e159-48a9-8cd0-01367b481f8e;cf0e08ad-e159-48a9-8cd0-01367b481f8e
+2;WiFi;36;Bob;Alice;Thanks! Looking forward to checking them out #NTNU-MISEB f653b148-3212-4c35-9c6e-d1ad825cabce;f653b148-3212-4c35-9c6e-d1ad825cabce
+2;WiFi;37;Alice;Bob;You're welcome. Enjoy! #NTNU-MISEB a8a1f45a-79a6-4383-8c1d-aae848071789;a8a1f45a-79a6-4383-8c1d-aae848071789
+2;WiFi;38;Bob;Alice;By the way, do you prefer snowboarding over skiing? #NTNU-MISEB 0eb27401-3129-4cf9-9aab-41dc106d5040;0eb27401-3129-4cf9-9aab-41dc106d5040
+2;WiFi;39;Alice;Bob;Yes, I find snowboarding more exciting. How about you? #NTNU-MISEB 05913001-ca1f-4da1-abd9-91f3fd3ed36e;05913001-ca1f-4da1-abd9-91f3fd3ed36e
+2;WiFi;40;Bob;Alice;I've only tried skiing, but I'm excited to try snowboarding #NTNU-MISEB 94365030-a5c0-43dd-b358-fe2b1d8692ab;94365030-a5c0-43dd-b358-fe2b1d8692ab
+2;WiFi;41;Alice;Bob;You'll love it! It's a different experience but just as fun #NTNU-MISEB 521e8a16-9354-4b6d-85ad-4578ccb02218;521e8a16-9354-4b6d-85ad-4578ccb02218
+2;WiFi;42;Bob;Alice;I can't wait. Any other winter activities you enjoy? #NTNU-MISEB 1535ce35-9e44-4782-b80a-4a39437aec3a;1535ce35-9e44-4782-b80a-4a39437aec3a
+2;WiFi;43;Alice;Bob;I also like ice skating and sledding. Winter is a great season for outdoor fun #NTNU-MISEB 36b153bf-5252-4bc4-bdba-c5e7204d5ce0;36b153bf-5252-4bc4-bdba-c5e7204d5ce0
+2;WiFi;44;Bob;Alice;Agreed! Winter sports are the best #NTNU-MISEB 2f98708a-30aa-4ee5-8581-62e95a4ff54b;2f98708a-30aa-4ee5-8581-62e95a4ff54b
+2;WiFi;45;Alice;Bob;Absolutely. Do you have any winter trips planned? #NTNU-MISEB f36341db-b4be-4774-a383-12b34f294bf1;f36341db-b4be-4774-a383-12b34f294bf1
+2;WiFi;46;Bob;Alice;Not yet, but I'm thinking about planning one soon #NTNU-MISEB d4817b59-b9d1-4e8e-a2e5-2408a32c89cd;d4817b59-b9d1-4e8e-a2e5-2408a32c89cd
+2;WiFi;47;Alice;Bob;That sounds like a great idea. Let me know if you need any recommendations #NTNU-MISEB e84d4b3b-efe9-46ac-8e25-5b7b4c52d35b;e84d4b3b-efe9-46ac-8e25-5b7b4c52d35b
+2;WiFi;48;Bob;Alice;Will do! Thanks for all the tips and advice #NTNU-MISEB f0e1846a-7b8c-4294-95cb-025b1fd94969;f0e1846a-7b8c-4294-95cb-025b1fd94969
+2;WiFi;49;Alice;Bob;You're welcome. Have fun and stay safe! #NTNU-MISEB 9d1c0700-d96d-4810-8db8-77f23597a663;9d1c0700-d96d-4810-8db8-77f23597a663
+2;WiFi;50;Bob;Alice;Thanks, Alice! Talk to you later #NTNU-MISEB 38c87f48-b959-4433-ba8f-fafca387a656;38c87f48-b959-4433-ba8f-fafca387a656
+3;Bluetooth;1;Alice;Bob;Bob, we're connected via Bluetooth now. Do you see me as green in the contacts list? #NTNU-MISEB d9851039-12cf-4fcc-8f6d-1f3cf51a02b9;d9851039-12cf-4fcc-8f6d-1f3cf51a02b9
+3;Bluetooth;2;Bob;Alice;Yes, I see you clearly. Are we able to send messages quickly enough through this? #NTNU-MISEB 132c86aa-6d2e-4b93-9852-fa523ae34562;132c86aa-6d2e-4b93-9852-fa523ae34562
+3;Bluetooth;3;Alice;Bob;It seems pretty fast! Short range, but practical when we're close by #NTNU-MISEB e2186fd0-85d4-4cea-bef3-f30e7815d8b5;e2186fd0-85d4-4cea-bef3-f30e7815d8b5
+3;Bluetooth;4;Bob;Alice;Yeah, it's fine for short conversations. Where are you right now? #NTNU-MISEB b2cf19e9-bcfc-4401-9762-9e662edcdf0f;b2cf19e9-bcfc-4401-9762-9e662edcdf0f
+3;Bluetooth;5;Alice;Bob;I'm in the neighborhood, just 20 meters away. Bluetooth range is working well! #NTNU-MISEB 0ad4dc14-6ab8-4c84-a809-c7c09933cef6;0ad4dc14-6ab8-4c84-a809-c7c09933cef6
+3;Bluetooth;6;Bob;Alice;Good to hear! This is a good emergency solution when we don't have the internet #NTNU-MISEB ee66468d-6be2-4005-b154-a0842b9cc184;ee66468d-6be2-4005-b154-a0842b9cc184
+3;Bluetooth;7;Alice;Bob;Yes, we should test this more often for local messaging #NTNU-MISEB aeab872d-1fdc-4f2a-ae4f-04e456af4ed5;aeab872d-1fdc-4f2a-ae4f-04e456af4ed5
+3;Bluetooth;8;Bob;Alice;By the way, Heidi is pregnet. Have you thought about starting a family? #NTNU-MISEB 1aa493c5-a748-4589-9527-3e6fcdfc6572;1aa493c5-a748-4589-9527-3e6fcdfc6572
+3;Bluetooth;9;Alice;Bob;Yes, it's been on my mind lately. How about you? #NTNU-MISEB b8485ad4-64f5-4fef-8ad1-3e1d6468d98f;b8485ad4-64f5-4fef-8ad1-3e1d6468d98f
+3;Bluetooth;10;Bob;Alice;Same here. It's a big step.. #NTNU-MISEB c13327da-4fdb-459a-abb3-30a468464b8d;c13327da-4fdb-459a-abb3-30a468464b8d
+3;Bluetooth;11;Alice;Bob;Absolutely. It's a huge responsibility, but also very rewarding #NTNU-MISEB a9bb68f1-0687-4ce0-a196-7760aeed7422;a9bb68f1-0687-4ce0-a196-7760aeed7422
+3;Bluetooth;12;Bob;Alice;How do you know when the time is right? #NTNU-MISEB a721d8c3-ebe2-47f9-b7a5-a2d2798b386c;a721d8c3-ebe2-47f9-b7a5-a2d2798b386c
+3;Bluetooth;13;Alice;Bob;Timing is always tricky. But if you feel ready, you should go for it #NTNU-MISEB 05d1562d-87a3-4353-ab03-6a621d633d66;05d1562d-87a3-4353-ab03-6a621d633d66
+3;Bluetooth;14;Bob;Alice;True. Have you talked to anyone else about this? #NTNU-MISEB b0f29176-fcf4-484f-b855-bd9ace427c78;b0f29176-fcf4-484f-b855-bd9ace427c78
+3;Bluetooth;15;Alice;Bob;Yes, I've discussed it with a few close friends. They all have different opinions #NTNU-MISEB f55de80b-ff15-4058-9162-42696928c583;f55de80b-ff15-4058-9162-42696928c583
+3;Bluetooth;16;Bob;Alice;Same here. It's interesting to hear different perspectives #NTNU-MISEB dfa1d04a-4727-4e7a-a6f9-e5aa45bae4c4;dfa1d04a-4727-4e7a-a6f9-e5aa45bae4c4
+3;Bluetooth;17;Alice;Bob;Definitely. What do you think is the most important factor to consider? #NTNU-MISEB 22320fe2-ed32-49aa-a65b-f4881d9cbfee;22320fe2-ed32-49aa-a65b-f4881d9cbfee
+3;Bluetooth;18;Bob;Alice;I think financial stability is crucial. We need to be able to provide for our family #NTNU-MISEB 204f6f59-83e0-4ff1-b732-f1f830535d4a;204f6f59-83e0-4ff1-b732-f1f830535d4a
+3;Bluetooth;19;Alice;Bob;Agreed. Emotional readiness is also important #NTNU-MISEB 6aa5d184-42a7-4869-aae8-eb0302ba37df;6aa5d184-42a7-4869-aae8-eb0302ba37df
+3;Bluetooth;20;Bob;Alice;Yes, we need to be prepared for the challenges that come with raising a family #NTNU-MISEB dabe3cac-ab3b-41b5-9265-5af3dd8e6f77;dabe3cac-ab3b-41b5-9265-5af3dd8e6f77
+3;Bluetooth;21;Alice;Bob;Absolutely. It's a lifelong commitment #NTNU-MISEB 869b0ae6-ffca-42be-b312-63f348dc22e4;869b0ae6-ffca-42be-b312-63f348dc22e4
+3;Bluetooth;22;Bob;Alice;Have you thought about where you'd like to raise a family? #NTNU-MISEB ee9f56e7-d17b-4ffa-8c8e-dc0901058a13;ee9f56e7-d17b-4ffa-8c8e-dc0901058a13
+3;Bluetooth;23;Alice;Bob;Yes, I think a safe and supportive community is essential #NTNU-MISEB 8bd9a593-d7a8-4e8a-852c-fcebe852e5f1;8bd9a593-d7a8-4e8a-852c-fcebe852e5f1
+3;Bluetooth;24;Bob;Alice;I agree. Good schools and healthcare are also important #NTNU-MISEB b6036fab-e352-4837-a04b-e57ed0af4777;b6036fab-e352-4837-a04b-e57ed0af4777
+3;Bluetooth;25;Alice;Bob;Definitely #NTNU-MISEB b79e7aae-5c37-42c1-bb27-877ae42f908d;b79e7aae-5c37-42c1-bb27-877ae42f908d
+3;Bluetooth;26;Bob;Alice;Have you thought about how many children you'd like to have? #NTNU-MISEB b43f0460-ac44-4ae8-a459-575fef264230;b43f0460-ac44-4ae8-a459-575fef264230
+3;Bluetooth;27;Alice;Bob;I think two or three would be ideal. How about you? #NTNU-MISEB d3007324-6b11-4e70-a9cf-221d3b233211;d3007324-6b11-4e70-a9cf-221d3b233211
+3;Bluetooth;28;Bob;Alice;I feel the same. A small, close-knit family sounds perfect #NTNU-MISEB 9cda78dc-05eb-415b-9123-8e7c8ae45991;9cda78dc-05eb-415b-9123-8e7c8ae45991
+3;Bluetooth;29;Alice;Bob;Yes, it does. Have you thought about names? #NTNU-MISEB e047c95a-e2d6-476b-a27b-146e9187af27;e047c95a-e2d6-476b-a27b-146e9187af27
+3;Bluetooth;30;Bob;Alice;A few, but it's hard. We've used an app to help us. It's called CharliesNames and it's like Tinder for baby names #NTNU-MISEB d8d36cf5-4218-4158-976e-72236b3a920a;d8d36cf5-4218-4158-976e-72236b3a920a
+3;Bluetooth;31;Alice;Bob;Oh wow, that sounds interesting. I'll check it out #NTNU-MISEB e28f90cc-35da-4666-ac21-149345b123f2;e28f90cc-35da-4666-ac21-149345b123f2
+3;Bluetooth;32;Bob;Alice;I'm thinking about working less for a couple of years to ensure I'm there for the kids. Have you thought about how to balance work and family life? #NTNU-MISEB b9d2ba3e-c25f-4d70-9810-4ca2b64eb9ce;b9d2ba3e-c25f-4d70-9810-4ca2b64eb9ce
+3;Bluetooth;33;Alice;Bob;Yes, it's important to find a good balance. Communication and teamwork are key #NTNU-MISEB b98d11fe-1a3c-44a7-8460-5e8aa04a7415;b98d11fe-1a3c-44a7-8460-5e8aa04a7415
+3;Bluetooth;34;Bob;Alice;Agreed #NTNU-MISEB daeed9ad-2e92-4e9d-92a1-44195ef0da2d;daeed9ad-2e92-4e9d-92a1-44195ef0da2d
+3;Bluetooth;35;Alice;Bob;Are you on the same page with your partner about parenting? #NTNU-MISEB b38c34e3-6518-4705-99da-7600f75bdbd0;b38c34e3-6518-4705-99da-7600f75bdbd0
+3;Bluetooth;36;Bob;Alice;Yes, we've had many discussions about it. It's important to be aligned #NTNU-MISEB ce13347e-08db-4ceb-a179-2ad5ba385cad;ce13347e-08db-4ceb-a179-2ad5ba385cad
+3;Bluetooth;37;Alice;Bob;Definitely. Parenting is a team effort #NTNU-MISEB 00bffaca-c6fb-481e-9913-55ef37b07b7d;00bffaca-c6fb-481e-9913-55ef37b07b7d
+3;Bluetooth;38;Bob;Alice;True that #NTNU-MISEB 500c962b-48d9-4050-a9d8-66e08c8ed8f0;500c962b-48d9-4050-a9d8-66e08c8ed8f0
+3;Bluetooth;39;Alice;Bob;But it's also important to have your own time and space #NTNU-MISEB da57c787-b5ca-4c7a-8a5d-a2d0ed30f75c;da57c787-b5ca-4c7a-8a5d-a2d0ed30f75c
+3;Bluetooth;40;Bob;Alice;Absolutely. We need to take care of ourselves to be able to take care of our family #NTNU-MISEB c03f5675-c553-4906-9680-c52161af2be5;c03f5675-c553-4906-9680-c52161af2be5
+3;Bluetooth;41;Alice;Bob;So what do you do to relax and recharge? #NTNU-MISEB ac04642b-42f6-4e19-a6d1-c979ebfd1c18;ac04642b-42f6-4e19-a6d1-c979ebfd1c18
+3;Bluetooth;42;Bob;Alice;I enjoy reading, hiking, and spending time with friends. How about you? #NTNU-MISEB 6eafc314-0f33-41fe-bb7c-74ff33fab7e2;6eafc314-0f33-41fe-bb7c-74ff33fab7e2
+3;Bluetooth;43;Alice;Bob;I like yoga, painting, and listening to music. It helps me unwind #NTNU-MISEB ea341128-a7aa-43c4-9b59-101fcee9f695;ea341128-a7aa-43c4-9b59-101fcee9f695
+3;Bluetooth;44;Bob;Alice;Nice #NTNU-MISEB 4479f012-a921-48d6-9f9d-3ca1339c29ec;4479f012-a921-48d6-9f9d-3ca1339c29ec
+3;Bluetooth;45;Bob;Alice;It's important to have hobbies and activities that bring you joy #NTNU-MISEB d02a9123-605f-4f47-9954-116196a8e9e4;d02a9123-605f-4f47-9954-116196a8e9e4
+3;Bluetooth;46;Alice;Bob;Maybe our partners can meet up too #NTNU-MISEB efd045cf-e6a4-4914-aeb1-b92f848c50cd;efd045cf-e6a4-4914-aeb1-b92f848c50cd
+3;Bluetooth;47;Alice;Bob;It's good for us to have a support network #NTNU-MISEB 1819ceed-ddc8-45f7-9589-6d8f7588db77;1819ceed-ddc8-45f7-9589-6d8f7588db77
+3;Bluetooth;48;Bob;Alice;Yeah that would be great #NTNU-MISEB f9cf6765-526e-4749-9dca-ac3761531bab;f9cf6765-526e-4749-9dca-ac3761531bab
+3;Bluetooth;49;Alice;Bob;Maybe we can plan a get-together soon #NTNU-MISEB f057dd26-c3db-4df5-a498-be80ece1c6be;f057dd26-c3db-4df5-a498-be80ece1c6be
+3;Bluetooth;50;Bob;Alice;Sounds like a plan. Let's make it happen #NTNU-MISEB b3e0be6b-d7bf-484e-93bb-68918cf5889f;b3e0be6b-d7bf-484e-93bb-68918cf5889f
+4;Bluetooth,WiFi;1;Alice;StudyGroup;Hi Bob and Charlie. Can you both read this? I have Bluetooth and WiFi enabled, but not Tor #NTNU-MISEB 60d1e6b5-46d9-47f9-9ac0-c94a306617f0;60d1e6b5-46d9-47f9-9ac0-c94a306617f0
+4;Bluetooth;2;Bob;StudyGroup;Yes, I can read the message, and I only have Bluetooth enabled #NTNU-MISEB ac643e42-b1fb-44a3-b91c-5b2a761f3e60;ac643e42-b1fb-44a3-b91c-5b2a761f3e60
+4;WiFi;3;Charlie;StudyGroup;Interesting, I'm also connected via Alice. No direct connection to you, Bob. Looks like everyone can read everything #NTNU-MISEB 933d3dcc-4014-4823-a795-0f055760f22f;933d3dcc-4014-4823-a795-0f055760f22f
+4;Bluetooth;4;Bob;StudyGroup;It seems like Alice is acting as a relay for us. I don't know you very well, Charlie, but we can still communicate and coordinate. That's good to know #NTNU-MISEB 9ef93e7d-ea10-491a-ac29-7dd993063efe;9ef93e7d-ea10-491a-ac29-7dd993063efe
+4;Bluetooth,WiFi;5;Alice;StudyGroup;What happens if I lose connection? I'm turning off my connections after this message #NTNU-MISEB 3b36a388-565d-40dd-b166-c7ee7b8b5657;3b36a388-565d-40dd-b166-c7ee7b8b5657
+4;Bluetooth;6;Bob;StudyGroup;Now you both got disconnected for me. We need to make sure Alice has a stable connection at all times. Otherwise, Charlie, we should add each other as contacts #NTNU-MISEB 54d337fc-f0e9-4bcc-ae33-bfb53c9afe74;54d337fc-f0e9-4bcc-ae33-bfb53c9afe74
+4;WiFi;7;Charlie;StudyGroup;It went dead here. Both are disconnected, and I'm not receiving any messages #NTNU-MISEB b803e38a-7a32-448c-9bcc-943f21668224;b803e38a-7a32-448c-9bcc-943f21668224
+4;Bluetooth,WiFi;8;Alice;StudyGroup;Now I've re-enabled Bluetooth and WiFi - messages just came in from both of you #NTNU-MISEB bcd0d0fc-61b0-4e7a-a968-bde2331041a1;bcd0d0fc-61b0-4e7a-a968-bde2331041a1
+4;Bluetooth;9;Bob;StudyGroup;Yeah, now I got messages from both of you! #NTNU-MISEB e0e3d73b-fe29-4bb8-8234-c3af4019876e;e0e3d73b-fe29-4bb8-8234-c3af4019876e
+4;WiFi;10;Charlie;StudyGroup;Me too! #NTNU-MISEB 7ed39723-0040-427e-b002-450780a91090;7ed39723-0040-427e-b002-450780a91090
+5;WiFi;1;Alice;Neighborhood;If you go offline Charlie, I lose connection to Dave, right? Who is Dave by the way? #NTNU-MISEB 4130cb49-a1f4-4308-b703-78a262578e59;4130cb49-a1f4-4308-b703-78a262578e59
+5;WiFi,Tor;2;Charlie;Neighborhood;Yes, that's correct. Without me, the messages in the group chat won't flow unless you switch to a shared channel. Dave lives at the end of my row #NTNU-MISEB bef8f9c1-b9dc-4127-b05f-66d197a35eb9;bef8f9c1-b9dc-4127-b05f-66d197a35eb9
+5;WiFi;3;Alice;Neighborhood;Ah, I see. Maybe I should add Dave as a contact too #NTNU-MISEB 8c6eecc1-851e-43bd-b535-c732f5aab3d1;8c6eecc1-851e-43bd-b535-c732f5aab3d1
+5;WiFi,Tor;4;Charlie;Neighborhood;Good idea. You need a backup plan for communication #NTNU-MISEB a3658483-4bfc-4b5d-a42b-0a252d7821ce;a3658483-4bfc-4b5d-a42b-0a252d7821ce
+5;Tor;5;Dave;Neighborhood;Sure! Or you can use the reveal contacts in the group feature. I only have Tor btw... #NTNU-MISEB 350e5821-a441-4676-a9da-f5e335a249ba;350e5821-a441-4676-a9da-f5e335a249ba
+5;WiFi;6;Alice;Neighborhood;Interesting feature! Okay, so I can't reach you via WiFi/Bluetooth through Charlie, even though you're in the neighborhood (pun intended) #NTNU-MISEB f1550f83-cf7d-4d08-9c9d-19bb404f7915;f1550f83-cf7d-4d08-9c9d-19bb404f7915
+5;WiFi,Tor;7;Charlie;Neighborhood;Let's keep me as the relay for now, but Alice, you need to be ready to switch to Tor if I get disconnected #NTNU-MISEB ac9bf6d6-ea6a-496f-b114-4c949780bb44;ac9bf6d6-ea6a-496f-b114-4c949780bb44
+5;Tor;8;Dave;Neighborhood;Good idea. Are you ready for that Alice? #NTNU-MISEB 1cd892fa-217c-46b6-8c50-142d923aaba9;1cd892fa-217c-46b6-8c50-142d923aaba9
+5;WiFi;9;Alice;Neighborhood;I need to check if I have regular internet first #NTNU-MISEB a3fb2a4c-2466-40a0-bac3-897c2d7eccbe;a3fb2a4c-2466-40a0-bac3-897c2d7eccbe
+5;WiFi;10;Alice;Neighborhood;Ready! #NTNU-MISEB 88564dc3-b796-4856-8808-ccf3de9c4eff;88564dc3-b796-4856-8808-ccf3de9c4eff
+6;Bluetooth,WiFi;1;Alice;EchoChamber;Hi everyone, I can post things in the forum that everyone can see, even if we're not directly connected #NTNU-MISEB eaceb2fe-ac59-40a7-83fe-4a1a5c8531ea;eaceb2fe-ac59-40a7-83fe-4a1a5c8531ea
+6;Bluetooth;2;Bob;EchoChamber;That's good! We're well synchronized, as long as most contacts are connected with someone #NTNU-MISEB 0b641bd4-2bfc-4d03-a690-475b08b1f859;0b641bd4-2bfc-4d03-a690-475b08b1f859
+6;WiFi,Tor;3;Charlie;EchoChamber;Yeah, it's important to know who's acting as the relay, in case someone goes offline. Can we all confirm that we see each other's messages here? I see different color codes. Bob is red (1/3) for me since we're not contacts #NTNU-MISEB 5a87293a-c10b-4184-88f3-163bec2fffbc;5a87293a-c10b-4184-88f3-163bec2fffbc
+6;Tor;4;Dave;EchoChamber;I see forum posts from all of you, Alice, Bob, and Charlie. For me, Bob is also red (1/3) because we don't know each other #NTNU-MISEB a52cb9f7-1a63-41fa-867d-fb9976c794ae;a52cb9f7-1a63-41fa-867d-fb9976c794ae
+6;WiFi,Tor;5;Charlie;EchoChamber;The forum works well. I'm just curious how the relay system works. Can Alice disconnect? #NTNU-MISEB e4797955-0f42-47b7-8c2d-509f843a9e6c;e4797955-0f42-47b7-8c2d-509f843a9e6c
+6;Bluetooth,WiFi;6;Alice;EchoChamber;gtg! #NTNU-MISEB b180f36d-797b-47e8-bde3-a094dddf203f;b180f36d-797b-47e8-bde3-a094dddf203f
+6;WiFi,Tor;7;Charlie;EchoChamber;Dave, do you see this post? #NTNU-MISEB 8e8a9d6e-6e61-495a-9c9d-360455fe1b6f;8e8a9d6e-6e61-495a-9c9d-360455fe1b6f
+6;Tor;8;Dave;EchoChamber;Yep #NTNU-MISEB fe828805-2773-418a-805f-3a20ff07fe4c;fe828805-2773-418a-805f-3a20ff07fe4c
+6;Bluetooth,WiFi;9;Alice;EchoChamber;Back! It looks like you two were chatting while I was disconnected. I see the messages now. How about you Bob? #NTNU-MISEB 5dbffb51-fc99-49fc-919f-565b91c87f1d;5dbffb51-fc99-49fc-919f-565b91c87f1d
+6;Bluetooth;10;Bob;EchoChamber;It's good to have you back, Alice. I can see all the messages now as well #NTNU-MISEB 2e77756d-4443-4d49-a1ae-eeb12ae10280;2e77756d-4443-4d49-a1ae-eeb12ae10280
+7;Bluetooth,WiFi;1;Alice;Blog;This blog will contain my thoughts on information security and privacy. Feel free to join the discussion! #NTNU-MISEB 093ff020-c033-4a8e-ae81-923e25073847;093ff020-c033-4a8e-ae81-923e25073847
+7;Bluetooth;2;Bob;Blog;I'm looking forward to your perspectives! Especially on how we can secure communication across multiple channels #NTNU-MISEB 1d135ec2-81b8-478b-b267-fc4de7c57423;1d135ec2-81b8-478b-b267-fc4de7c57423
+7;WiFi,Tor;3;Charlie;Blog;Agreed Alice, but I think we also need to be more mindful of how we handle sensitive data in everyday life #NTNU-MISEB 905976a9-390d-44b4-a26a-b4894800f1bb;905976a9-390d-44b4-a26a-b4894800f1bb
+7;Tor;4;Dave;Blog;Does anyone have experience with different security protocols? It would be interesting to hear about various solutions #NTNU-MISEB 03e0ae2d-625a-4b7a-aa1f-8c8371e24dd8;03e0ae2d-625a-4b7a-aa1f-8c8371e24dd8
+7;Tor;5;Alice;Blog;I wonder if anyone has tested the Tor network in practice? How does it compare to other tools? #NTNU-MISEB ca6f708a-f77e-4123-8abb-e80a2104e54b;ca6f708a-f77e-4123-8abb-e80a2104e54b
+7;WiFi,Tor;6;Charlie;Blog;Security is more than just technology, it's also about habits and culture #NTNU-MISEB af909286-ad9d-4241-803a-cbbd86e653e3;af909286-ad9d-4241-803a-cbbd86e653e3
+7;Bluetooth;7;Bob;Blog;Not much discussion here, but I'll keep sharing my thoughts: I recently started using more encryption tools, and it's made me more aware of the risks #NTNU-MISEB 66052fc6-2112-4340-b8c3-1ef26dac6b7a;66052fc6-2112-4340-b8c3-1ef26dac6b7a
+7;Tor;8;Dave;Blog;I've found that WiFi-based communication can be risky, any thoughts on security for open networks? #NTNU-MISEB 529edaa3-4944-4694-bccf-bf26f77502d0;529edaa3-4944-4694-bccf-bf26f77502d0
+7;WiFi,Tor;9;Charlie;Blog;Tor is a great technology, but it has its limitations. Has anyone thought about combining it with other tools? #NTNU-MISEB 636cd52e-e53b-4e1f-baa3-ba7a1688de4f;636cd52e-e53b-4e1f-baa3-ba7a1688de4f
+7;Bluetooth,WiFi;10;Alice;Blog;Many seem to overlook the importance of physical security when we talk about information security. Any experiences? #NTNU-MISEB e72cee04-418b-46dd-8a8f-9c790c673877;e72cee04-418b-46dd-8a8f-9c790c673877
