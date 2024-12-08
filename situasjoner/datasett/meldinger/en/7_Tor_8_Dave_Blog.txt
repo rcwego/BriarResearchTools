@@ -1,0 +1,1 @@
+I've found that WiFi-based communication can be risky, any thoughts on security for open networks? #NTNU-MISEB 529edaa3-4944-4694-bccf-bf26f77502d0
